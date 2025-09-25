@@ -41,3 +41,20 @@ Your CSV file should contain these columns:
 
 - **Random Forest**: Ensemble method with feature importance analysis
 - **Linear Regression**: Simple linear relationship modeling
+
+## Free Deployment Options
+
+### 1. Streamlit Community Cloud (Recommended)
+1. Push code to GitHub repository
+2. Go to [share.streamlit.io](https://share.streamlit.io)
+3. Connect GitHub and deploy
+
+### 2. Render
+1. Push to GitHub
+2. Create account at [render.com](https://render.com)
+3. Connect repository and deploy
+
+### 3. Railway
+1. Push to GitHub
+2. Sign up at [railway.app](https://railway.app)
+3. Deploy from GitHub
